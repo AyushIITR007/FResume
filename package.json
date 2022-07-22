@@ -1,0 +1,23 @@
+{
+  "name": "fresume",
+  "version": "1.0.0",
+  "description": "utility web app for creating and editing resume",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyushIITR007/FResume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyushIITR007/FResume/issues"
+  },
+  "homepage": "https://github.com/AyushIITR007/FResume#readme",
+  "dependencies": {
+    "node-sass": "7.0.1",
+    "express": "4.18.1"
+  }
+}
